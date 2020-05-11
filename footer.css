@@ -1,0 +1,35 @@
+.footer-container {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 250px;
+}
+
+#correo {
+	flex: 1;
+	outline: none;
+}
+
+#suscripcion-container {
+	flex: 1;
+}
+
+#social-container {
+	flex: 1;
+}
+
+#aboutus-container {
+	flex: 1;
+}
+
+#social-container ul {
+	list-style: none;
+}
+
+#insta {
+	color: #8a3ab9;
+}
+
+.contenedores {
+	height: 100%;
+}
