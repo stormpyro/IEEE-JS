@@ -11,6 +11,7 @@ section {
 	flex-wrap: wrap;
 	height: 680px;
 	position: absolute;
+	width: 100%;
 }
 
 #fondo {
@@ -21,8 +22,8 @@ section {
 }
 
 #fondo-container {
-	flex: 1;
 	height: 100%;
+	width: 100%;
 }
 
 #form-container {
